@@ -16,8 +16,8 @@ PHPMYADMIN=5.0.4
 
 preflight(){
     output "Pterodactyl Installation & Upgrade Script"
-    output "Copyright © 2020 HEALER.JS."
-    output "HEALER#0001"
+    output "Copyright ©RAMBEY HOSTING"
+    output "BY NEROX - Z#0001"
     output ""
 
     output "Please note that this script is meant to be installed on a fresh OS. Installing it on a non-fresh OS may cause problems."
